@@ -14,7 +14,7 @@
     "firebase": "^7.14.1",
     "lodash.groupby": "^4.6.0",
     "moment": "^2.24.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
